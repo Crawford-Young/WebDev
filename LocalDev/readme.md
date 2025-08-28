@@ -20,6 +20,8 @@ Node
   
 Bun  
 [https://bun.com/](https://bun.com/)  
+
+Jira/Confluence
   
 ### Optional  
   
